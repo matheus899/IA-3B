@@ -9,8 +9,9 @@ const perguntas = [
         enunciado: "TEXTO DA PERGUNTA 1",
         alternativas: [
             {
-                texto: "TEXTO DA ALTERNATIVA 1 DA PERGUNTA 1",
-                afirmacao: "AFIRMAÇÃO DA ALTERNATIVA 1 DA PERGUNTA 1"
+                texto: "Qual é a melhor forma de prevenir doenças cardíacas?",
+                afirmacao: "Manter uma dieta balanceada e rica em frutas e vegetais."
+                
             },
             {
                 texto: "TEXTO DA ALTERNATIVA 2 DA PERGUNTA 1",
